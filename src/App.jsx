@@ -182,7 +182,6 @@ const alphaSquad = [
   { name: "Fritz Fifty", position: "Squad Lead", dienstnummer: "13" },
   { name: "David Harris", position: "Stv. Squadlead", dienstnummer: "20" },
   { name: "Tomas Tall", position: "Metro Officer", dienstnummer: "17" },
-  { name: "Vladislav Schniepelkopf", position: "Metro Officer", dienstnummer: "4" },
   { name: "Will Ladiego", position: "Metro Officer", dienstnummer: "35" },
 ];
 
