@@ -175,7 +175,7 @@ const documents = [
 const leadershipMembers = [
   { name: "Leo Meier", position: "Inspector of METRO", dienstnummer: "3" },
   { name: "Juergen Wellel", position: "METRO Leitung", dienstnummer: "16" },
-  { name: "Jordan Bradford", position: "Stv. Leitung", dienstnummer: "31" },
+  { name: "Jordan Bradford", position: "Stv. Leitung", dienstnummer: "26" },
 ];
 
 const alphaSquad = [
@@ -186,7 +186,7 @@ const alphaSquad = [
 ];
 
 const bravoSquad = [
-  { name: "Jezzy Snow", position: "Squad Lead", dienstnummer: "33" },
+  { name: "Jezzy Snow", position: "Squad Lead", dienstnummer: "28" },
   { name: "Freddy Koltmen", position: "Stv. Squadlead", dienstnummer: "24" },
   { name: "Kurt Sanchez", position: "Metro Officer", dienstnummer: "102" },
   { name: "Heinz MFGazia", position: "Metro Officer", dienstnummer: "58" },
