@@ -166,10 +166,10 @@ const vehicles = [
 ];
 
 const documents = [
-  { title: "Kooperations- und Dienstleistungsvertrag", category: "Kooperation", status: "Externes Dokument", date: "06.04.2026", description: "Regelt die Zusammenarbeit zwischen LSPD METRO und externen Partnern, zum Beispiel bei Veranstaltungssicherheit, Crowd-Control, Einlasskontrollen und Notfallunterstützung.", url: "#kooperationsvertrag" },
-  { title: "Dienstvorschriften der METRO Division", category: "Internes Regelwerk", status: "Referenz", date: "Aktuell", description: "Zentrale Vorschriften zu Ausrüstung, Dienstverhalten, Festnahmen, Einsätzen und allgemeinem Auftreten innerhalb der METRO Division.", url: "#dienstvorschriften" },
-  { title: "Kleiderordnung der METRO Division", category: "Uniformierung", status: "Referenz", date: "17.02.2026", description: "Enthält Streifen-Outfit, Einsatz-Montur und Aufstellungs-Outfit mit allen relevanten Kleidungsnummern und Farbangaben.", url: "#kleiderordnung" },
-  { title: "Fahrzeug-Ordnung der METRO Division", category: "Fuhrpark", status: "Referenz", date: "Aktuell", description: "Regelt zugelassene Fahrzeuge, Tuning-Vorgaben, Marked/Unmarked-Nutzung und Sondergenehmigungen durch die Leitung.", url: "#fahrzeugordnung" },
+  { title: "Kooperations- und Dienstleistungsvertrag", category: "Kooperation", status: "Externes Dokument", date: "06.04.2026", description: "Regelt die Zusammenarbeit zwischen LSPD METRO und externen Partnern, zum Beispiel bei Veranstaltungssicherheit, Crowd-Control, Einlasskontrollen und Notfallunterstützung.", url: "#https://docs.google.com/document/d/1q-27JdETnfjvNjwIaOqmmb9Q6vNXHWzfDhp6z79Z5DU/edit?usp=sharing" },
+  { title: "Dienstvorschriften der METRO Division", category: "Internes Regelwerk", status: "Referenz", date: "Aktuell", description: "Zentrale Vorschriften zu Ausrüstung, Dienstverhalten, Festnahmen, Einsätzen und allgemeinem Auftreten innerhalb der METRO Division.", url: "#https://docs.google.com/document/d/1Ii5-nwCVRk2yhpdFW1adXPikVN8HP74hXHePCBnHBHA/edit?usp=sharing" },
+  { title: "Kleiderordnung der METRO Division", category: "Uniformierung", status: "Referenz", date: "17.02.2026", description: "Enthält Streifen-Outfit, Einsatz-Montur und Aufstellungs-Outfit mit allen relevanten Kleidungsnummern und Farbangaben.", url: "#https://docs.google.com/document/d/1V-0KR2fgnvCTiv5Ey0Oz7mGM-qM5eTn-hp0jk9tGHy8/edit?usp=sharing" },
+  { title: "Fahrzeug-Ordnung der METRO Division", category: "Fuhrpark", status: "Referenz", date: "Aktuell", description: "Regelt zugelassene Fahrzeuge, Tuning-Vorgaben, Marked/Unmarked-Nutzung und Sondergenehmigungen durch die Leitung.", url: "#https://docs.google.com/document/d/1foMJgE6rrJUSDWshIr4lfKRy-TocqqZND1lsgarzWTk/edit?usp=sharing" },
 ];
 
 const leadershipMembers = [
