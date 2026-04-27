@@ -170,6 +170,7 @@ const documents = [
   { title: "Dienstvorschriften der METRO Division", category: "Internes Regelwerk", status: "Referenz", date: "Aktuell", description: "Zentrale Vorschriften zu Ausrüstung, Dienstverhalten, Festnahmen, Einsätzen und allgemeinem Auftreten innerhalb der METRO Division.", url: "https://docs.google.com/document/d/1Ii5-nwCVRk2yhpdFW1adXPikVN8HP74hXHePCBnHBHA/edit?usp=sharing" },
   { title: "Kleiderordnung der METRO Division", category: "Uniformierung", status: "Referenz", date: "17.02.2026", description: "Enthält Streifen-Outfit, Einsatz-Montur und Aufstellungs-Outfit mit allen relevanten Kleidungsnummern und Farbangaben.", url: "https://docs.google.com/document/d/1V-0KR2fgnvCTiv5Ey0Oz7mGM-qM5eTn-hp0jk9tGHy8/edit?usp=sharing" },
   { title: "Fahrzeug-Ordnung der METRO Division", category: "Fuhrpark", status: "Referenz", date: "Aktuell", description: "Regelt zugelassene Fahrzeuge, Tuning-Vorgaben, Marked/Unmarked-Nutzung und Sondergenehmigungen durch die Leitung.", url: "https://docs.google.com/document/d/1foMJgE6rrJUSDWshIr4lfKRy-TocqqZND1lsgarzWTk/edit?usp=sharing" },
+  { title: "Aufgaben der METRO Division", category: "Internes Regelwerk", status: "Referenz", date: "Aktuell", description: "Regelt die Aufgaben der METRO Division.", url: "https://docs.google.com/document/d/1Uf6s8nv1g5rPu10PWhjo642vivOBd8GFQnQ24qn2UqE/edit?usp=sharing" },
 ];
 
 const leadershipMembers = [
