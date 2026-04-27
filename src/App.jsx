@@ -183,6 +183,8 @@ const alphaSquad = [
   { name: "David Harris", position: "Stv. Squadlead", dienstnummer: "20" },
   { name: "Tomas Tall", position: "Metro Officer", dienstnummer: "17" },
   { name: "Will Ladiego", position: "Metro Officer", dienstnummer: "35" },
+  { name: "Astro Santiago", position: "Metro Trainee", dienstnummer: "100" },
+  { name: "Momo Abbas", position: "Metro Officer", dienstnummer: "103" },
 ];
 
 const bravoSquad = [
@@ -190,7 +192,6 @@ const bravoSquad = [
   { name: "Freddy Koltmen", position: "Stv. Squadlead", dienstnummer: "24" },
   { name: "Kurt Sanchez", position: "Metro Officer", dienstnummer: "102" },
   { name: "Heinz MFGazia", position: "Metro Officer", dienstnummer: "58" },
-  { name: "Patric Kamill", position: "Metro Officer", dienstnummer: "12" },
 ];
 
 function fillVacantSlots(squad, size = 6) {
