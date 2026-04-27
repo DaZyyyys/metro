@@ -160,9 +160,9 @@ const vehicles = [
   { rank: "Trainees", model: "DLKOMODA", note: "Marked, metallisch schwarz, maximale Scheibentönung, Xenon weiß." },
   { rank: "Officer", model: "DLRIHNE", note: "Police Livery, Fulltuning ohne Tieferlegung, keine Karosserie-Veränderungen." },
   { rank: "Squad-Lead", model: "Jugular", note: "Marked oder Non-Marked je nach Freigabe; primär/sekundär metallisch schwarz." },
-  { rank: "Leitung", model: "TOLPOGMT", note: "Leitungsfahrzeug für taktische Führung und gehobene Einsatzlagen." },
-  { rank: "Genehmigung", model: "SHINOBIUM / DLOUTLAW / DLSHIN", note: "Nur mit ausdrücklicher Genehmigung der METRO-Leitung." },
-  { rank: "Sonderfahrzeuge", model: "LSSDINS / BCATPD / TRUSCOUT", note: "Rausschießen strengstens verboten, sofern in der Ordnung genannt." },
+  { rank: "Leitung", model: "TOLPOGMT", note: "Leitungsfahrzeug." },
+  { rank: "Genehmigung", model: "SHINOBIUM / DLOUTLAW / DLSHIN / SRHATPD / TAURIONPD / TRUSCOUT", note: "Nur mit ausdrücklicher Genehmigung der METRO-Leitung." },
+  { rank: "Sonderfahrzeuge", model: "LSSDINS / BCATPD", note: "Rausschießen strengstens verboten." },
 ];
 
 const documents = [
