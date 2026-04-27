@@ -191,7 +191,7 @@ const alphaSquad = [
 const bravoSquad = [
   { name: "Jezzy Snow", position: "Squad Lead", dienstnummer: "28" },
   { name: "Freddy Koltmen", position: "Stv. Squadlead", dienstnummer: "24" },
-  { name: "Kurt Sanchez", position: "Metro Officer", dienstnummer: "102" },
+  { name: "Kurt Sanchez", position: "Metro Officer", dienstnummer: "50" },
   { name: "Heinz MFGazia", position: "Metro Officer", dienstnummer: "58" },
 ];
 
