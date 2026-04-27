@@ -151,9 +151,9 @@ const rules = [
 ];
 
 const uniforms = [
-  { title: "Streifen-Outfit", items: ["Maske 237 / Farbe 1", "Oberteil 535", "T-Shirt 208 / Farbe 1", "Weste 71", "Hose 193", "Schuhe 71 / Farbe 1"] },
-  { title: "Einsatz-Montur 1", items: ["Maske 35", "Helm 255 oder 253", "Oberteil 539", "T-Shirt 208 / Farbe 1", "Weste 66", "Hose 294", "Schuhe 25"] },
-  { title: "Aufstellungs-Outfit", items: ["Maske 0", "Helm -1", "Kette 0", "Oberteil 606", "T-Shirt 15", "Arme 77", "Hose 186", "Schuhe 97"] },
+  { title: "Streifen-Outfit", items: ["Maske 237 / Farbe 1", "Oberteil 535 / Farbe 2", "T-Shirt 208 / Farbe 1", "Weste 66", "Hose 193", "Schuhe 25"] },
+  { title: "Einsatz-Montur", items: ["Maske 237", "Helm 253", "Oberteil 539", "T-Shirt 208 / Farbe 1", "Weste 66", "Hose 194", "Schuhe 25"] },
+  { title: "Kennzeichnung", items: ["Alpha: Uhr 200 / Farbe 1", "Bravo: Uhr 200 / Farbe 9"] },
 ];
 
 const vehicles = [
